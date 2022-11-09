@@ -21,11 +21,16 @@
 
 ![tiles](https://user-images.githubusercontent.com/100956344/200905508-e9e1dd37-0d6f-4211-a61d-455d7983ced8.jpg) 
 
- από την οποία δημιούργησα το Tilemap μου 
- 
+ από την οποία δημιούργησα το Tilemap μου ακολουθώντας και τις [οδηγίες](https://learn.unity.com/tutorial/world-design-tilemaps?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c) παράλληλα.
+
+
  ![background](https://user-images.githubusercontent.com/100956344/200902767-5b553798-20e9-4652-96e7-c6258db74298.jpg).
  
-Ύστερα,για την διακόσμηση του χώρου έκανα μια αναζήτηση βρηκα τα συγκεκριμένα αντικείμενα:
+ 
+ 
+Ύστερα,για την διακόσμηση του χώρου προχωρώντας μαζί με τις [οδηγίες](https://learn.unity.com/tutorial/decorating-the-world?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c) έκανα μια αναζήτηση βρηκα τα συγκεκριμένα αντικείμενα:
+
+
 
 ![diakosmisii](https://user-images.githubusercontent.com/100956344/200911836-b71cba94-0dc9-4a63-ad61-a4343f1d0fbc.jpg)
 
@@ -34,7 +39,7 @@
 
 Κάνοντας αυτά και ακολουθώντας όλες τις οδηγίες από το Unity tutorials με κάποιες μικροαλλαγές στις διαστάσεις, ανέβασα το φάκελο Build στην προσωπική μου σελίδα του GitHub. Μετά από κάποιες προσπάθειες το παιχνίδι έπαιζε επιτυχώς.
 
-(οχι οριστικοποιημενο ριπορτ)
+
 
 
 
