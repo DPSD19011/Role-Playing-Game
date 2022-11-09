@@ -25,7 +25,7 @@
  
  ![background](https://user-images.githubusercontent.com/100956344/200902767-5b553798-20e9-4652-96e7-c6258db74298.jpg).
  
-Ύστερα,για την διακόσμηση του χώρου έκανα μια αναζήτηση egypt sprites και βρηκα τα συγκεκριμένα:
+Ύστερα,για την διακόσμηση του χώρου έκανα μια αναζήτηση βρηκα τα συγκεκριμένα αντικείμενα:
 
 ![diakosmisii](https://user-images.githubusercontent.com/100956344/200911836-b71cba94-0dc9-4a63-ad61-a4343f1d0fbc.jpg)
 
