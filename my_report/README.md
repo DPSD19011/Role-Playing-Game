@@ -15,7 +15,7 @@
 
 # 1st Deliverable
 
-Αρχικά, τον πρωταγωνιστή μου, τον βρήκα online αναζητώντας Egypt Character sprites και επέλεξα τον συγκεκριμένο [χαρακτήρα](https://www.freepik.com/premium-vector/egyptian-pharaoh-cartoon-game-character-animation-sprite_1978966.htm) έτσι ώστε οι κινήσεις του (π.χ περπάτημα) να φαίνονται και στα επόμενα παραδοτέα.Αφού πήρα την εικόνα,αφαίρεσα το background και ακολουθώντας τις οδηγίες από [εδώ](https://learn.unity.com/tutorial/main-character-and-first-script?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c#) , έβαλα τον πρωταγωνιστή μου στο προόγραμμα του Unity,πρόσθεσα και το κομμάτι κώδικα και πλέον μπορούσε να μετακινηθεί γύρω από την κάμερα.
+Αρχικά, τον πρωταγωνιστή μου, τον βρήκα online αναζητώντας Egypt Character sprites και επέλεξα τον συγκεκριμένο [χαρακτήρα](https://www.freepik.com/premium-vector/egyptian-pharaoh-cartoon-game-character-animation-sprite_1978966.htm) έτσι ώστε οι κινήσεις του (π.χ περπάτημα) να φαίνονται και στα επόμενα παραδοτέα.Αφού πήρα την εικόνα,αφαίρεσα το background και ακολουθώντας τις οδηγίες από [εδώ](https://learn.unity.com/tutorial/main-character-and-first-script?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c#) , έβαλα τον πρωταγωνιστή μου στο προόγραμμα του Unity,πρόσθεσα και το κομμάτι κώδικα και πλέον μπορούσε να μετακινηθεί μέσα  στην κάμερα.
 
 Για την αναζήτηση του background,έψαξα για Tiles theme Egypt και επέλεξα μια εικονα
 
